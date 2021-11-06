@@ -2,8 +2,9 @@
 
 #### You can find me :
 <img src="https://gcdn.lanetaneta.com/wp-content/uploads/2019/10/El-GIF-est%C3%A1-muerto.-Larga-vida-al-GIF.gif" width="350px">
+<!--
 <img src="https://mymodernmet.com/wp/wp-content/uploads/2019/10/nasa-black-hole-visualization-1.gif" width="350px">
-
+--!>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
